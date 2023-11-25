@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  border: 5px solid rgb(75, 6, 75);
+  border-radius: 10px 10px;
+  margin: 100px 200px;
+  padding: 15px 15px;
+  background-color: rgb(240, 186, 240);
+
+}
+
+p {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 50px;
+  color: rgb(69, 20, 69);
+}
+
+h2 {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+}
+
+footer {
+  margin: 20px 0;
+}
