@@ -1,4 +1,7 @@
-img {
-    padding: 5px 5px;
-    border-radius: 15px 15px;
+.img {
+    display: inline;
+    padding: 0 2px;
 }
+ img {
+    border-radius: 10px 10px;
+ }
